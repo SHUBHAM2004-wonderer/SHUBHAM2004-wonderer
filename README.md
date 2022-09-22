@@ -1,5 +1,4 @@
 - 👋 Hi, I’m SHUBHAM YADAV 
-- 👀 I’m interested in 
 - 🌱 I’m currently learning web development and ethical hacking 
 - 📫 How to reach me juniorshubham0@gmail.com 
 
